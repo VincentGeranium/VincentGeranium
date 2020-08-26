@@ -2,9 +2,9 @@
 
 #### Not a painter 🎨, iOS Developer 💻
 
-- Check this 👉 [Most Recently Article of My Blog](https://vincentgeranium.github.io/ios,/swift/2020/07/17/inflearnConcurrency-1.html) 🗞
-- Check this 👉 [My Portfolio](https://github.com/VincentGeranium/Resume) 📝
-- Contact    👉 <kwangjun3952@gmail.com> 📩
+- Check this about Blog post 👉 [Most Recently Article of My Blog](https://vincentgeranium.github.io/ios,/swift/2020/08/26/iOS-Architecture-pattern-MVC-1.html) 🗞
+- Check this about My Protfolio 👉 [My Portfolio](https://github.com/VincentGeranium/Resume) 📝
+- Contact with Me 👉 <kwangjun3952@gmail.com> 📩
 
 # ![VincentGeranium's github stats](https://github-readme-stats.vercel.app/api?username=vincentgeranium&show_icons=true)
 

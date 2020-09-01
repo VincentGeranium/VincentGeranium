@@ -2,7 +2,7 @@
 
 #### Not a painter 🎨, iOS Developer 💻
 
-- Check this about Blog post 👉 [Most Recently Article of My Blog](https://vincentgeranium.github.io/ios,/swift/2020/08/26/iOS-Architecture-pattern-MVC-1.html) 🗞
+- Check this about Blog post 👉 [Most Recently Article of My Blog](https://vincent-geranium.tistory.com/4) 🗞
 - Check this about My Protfolio 👉 [My Portfolio](https://github.com/VincentGeranium/Resume) 📝
 - Contact with Me 👉 <kwangjun3952@gmail.com> 📩
 

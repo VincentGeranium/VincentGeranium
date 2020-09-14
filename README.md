@@ -2,7 +2,7 @@
 
 #### Not a painter 🎨, iOS Developer 💻
 
-- Check this about Blog post 👉 [Most Recently Article of My Blog](https://vincent-geranium.tistory.com/13) 🗞
+- Check this about Blog post 👉 [Most Recently Article of My Blog](https://vincent-geranium.tistory.com/14) 🗞
 - Check this about My Protfolio 👉 [My Portfolio](https://github.com/VincentGeranium/Resume) 📝
 - Today I Learned 👉 [Today I Learned](https://github.com/VincentGeranium/TIL/blob/master/Today_I_Learnd/README.md) 📚
 - Contact 👉 <kwangjun3952@gmail.com> 📩

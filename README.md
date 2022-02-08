@@ -2,7 +2,7 @@
 
 #### Not a painter 🎨, iOS Developer 💻
 
-- Check this My Notion 👉 [Vincent Notion](https://morgan-kang.notion.site/morgan-kang/) 🗞
+- Check this My Notion 👉 [Vincent Notion](https://morgan-kang.notion.site/morgan-kang/Notion-8ceb08e8756649e08c7bcf530adcdbfd) 🗞
 - Check this about My Protfolio 👉 [My Portfolio](https://github.com/VincentGeranium/Resume) 📝
 - Today I Learned 👉 [Today I Learned](https://github.com/VincentGeranium/TIL/blob/master/Today_I_Learnd/README.md) 📚
 - Contact 👉 <kwangjun3952@gmail.com> 📩

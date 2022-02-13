@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Vincent 😄
 
 #### iOS Developer 💻
+<a href="https://morgan-kang.notion.site/Notion-8ceb08e8756649e08c7bcf530adcdbfd" rel="nofollow"><img src="https://raw.githubusercontent.com/VincentGeranium/imageResource/master/notion-logo.png" alt="Notion-logo"></a>
+<a href="kwangjun3952@gmail.com" rel="nofollow"><img src="https://raw.githubusercontent.com/VincentGeranium/imageResource/master/gmail-logo.jpg" alt="gmail-logo"></a>
 
 - Check this My Notion 👉 [Vincent Notion](https://morgan-kang.notion.site/morgan-kang/Notion-8ceb08e8756649e08c7bcf530adcdbfd) 🗞
 - Contact 👉 <kwangjun3952@gmail.com> 📩
